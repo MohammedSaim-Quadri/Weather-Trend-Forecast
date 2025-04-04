@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+pmdarima
+prophet
+xgboost
+lightgbm
+pyod
+geopandas
+folium
+jupyter
+notebook
+feast
