@@ -1,3 +1,5 @@
-*.csv
+data/*
+!data/raw/
+!data/raw/**
 *.pkl
 *.json
