@@ -3,6 +3,7 @@
 ## 📘 Overview
 This project explores weather forecasting and environmental anomaly detection using machine learning and statistical techniques. The workflow includes data cleaning, feature engineering, model training (XGBoost and ARIMA), advanced EDA, and anomaly detection using statistical thresholds and Isolation Forests.
 
+trained model(.pkl and .json files) + datasets -> [Drive](https://drive.google.com/drive/folders/1OjT6CWRtTIFzoIKPTve7wBeG6bWuh2fk?usp=drive_link)
 ---
 
 ## 📚 Table of Contents
